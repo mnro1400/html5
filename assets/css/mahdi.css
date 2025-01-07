@@ -2,3 +2,24 @@
     border: 2px solid;
     border-radius: 25px;
 }
+
+;
+@media(min-width:600px) {
+    .mahdi {
+        align-items: center;
+    }
+}
+
+;
+.m .n {
+    transition: all 200ms ease;
+}
+
+.m .n {
+    transform: rotate(180deg);
+}
+
+;
+.matin {
+    transform: rotate(180deg);
+}
